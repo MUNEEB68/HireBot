@@ -1,4 +1,4 @@
-# AI-interviwer-chatbot-using-langchain-and-streamlit
+# HireBot
 Here's a more detailed README description that includes the technical aspects of your project:
 
 ---
